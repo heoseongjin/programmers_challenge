@@ -3,8 +3,8 @@
 > **Programmers Coding Test  
 > Challenge Log**
 
-| Date       | Level | Title             | Language                                                     |
-| ---------- | :---- | :---------------- | ------------------------------------------------------------ |
+| Date       | Level | Title             | Lang                                                     |
+| :--------- | ----- | ----------------- | :----------------------------------------------------------: |
 | 2021.03.25 | 2     | **멀쩡한 사각형** | <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> |
 | 2021.03.27 | 1     | **모의 고사** | <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> |
 
