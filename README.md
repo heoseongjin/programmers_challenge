@@ -7,4 +7,5 @@
 | :--------- | ----- | ----------------- | :----------------------------------------------------------: |
 | 2021.03.25 | 2     | **멀쩡한 사각형** | <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> |
 | 2021.03.27 | 1     | **모의 고사** | <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> |
+| 2021.04.02 | 1 | **평균 구하기** | <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> |
 
